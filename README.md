@@ -11,7 +11,7 @@ Acceda a la plataforma interactiva en vivo: [https://chain-global-invest.streaml
 ### 🚀 Descripción Ejecutiva
 **CHAIN GLOBAL INVEST** es una plataforma GovTech diseñada para asistir a los gobiernos subnacionales de Latinoamérica, maximizando el impacto de sus inversiones en proyectos productivos. Posee una arquitectura de producto progresiva, actualmente se concentra en la capa 1: 
 
-* **Capa 1 (B2G - Gobiernos):** Mejora la toma de decisiones y la priorización estratégica de recursos públicos. Permite a las autoridades evaluar y priorizar cadenas productivas, contribuyendo a reducir el riesgo de una asignación presupuestal ineficiente. De esta manera, guía la transformación hacia un mayor valor agregado. 
+* **Fase 1 (B2G - Gobiernos):** Mejora la toma de decisiones y la priorización estratégica de recursos públicos. Permite a las autoridades evaluar y priorizar cadenas productivas, contribuyendo a reducir el riesgo de una asignación presupuestal ineficiente. De esta manera, guía la transformación hacia un mayor valor agregado. 
  
 **🎯 Estado Actual (MVP):** 
 Nuestro prototipo funcional se enfoca en el motor analítico de priorización (Capa 1). La base técnica se sustenta en una investigación de posgrado en la Universidad Nacional Mayor de San Marcos (UNMSM), la cual utiliza datos reales de la Provincia de Andahuaylas, Región Apurímac. Asimismo, integramos como modelo piloto la casuística del programa PROCOMPITE del Estado Peruano para modelar la realidad productiva de dicha jurisdicción. De esta manera, se puede evaluar y priorizar cadenas productivas mediante análisis multicriterio, proporcionando evidencia estructurada para apoyar decisiones de inversión pública. 
