@@ -9,7 +9,7 @@ Acceda a la plataforma interactiva en vivo: [https://chain-global-invest.streaml
 ---
  
 ### 🚀 Descripción Ejecutiva
-**CHAIN GLOBAL INVEST** es una plataforma GovTech diseñada para asistir a los gobiernos subnacionales de Latinoamérica, maximizando el impacto de sus inversiones en proyectos productivos. Posee una arquitectura de producto progresiva, actualmente se concentra en la capa 1: 
+**CHAIN GLOBAL INVEST** es una plataforma GovTech diseñada para asistir a los gobiernos subnacionales de Latinoamérica, maximizando el impacto de sus inversiones en proyectos productivos. Posee una arquitectura de producto progresiva, actualmente se concentra en la fase 1: 
 
 * **Fase 1 (B2G - Gobiernos):** Mejora la toma de decisiones y la priorización estratégica de recursos públicos. Permite a las autoridades evaluar y priorizar cadenas productivas, contribuyendo a reducir el riesgo de una asignación presupuestal ineficiente. De esta manera, guía la transformación hacia un mayor valor agregado. 
  
