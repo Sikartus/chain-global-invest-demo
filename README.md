@@ -2,7 +2,7 @@
 
 Puedes probar el MVP y evaluar la herramienta directamente desde nuestro dominio oficial:
 
-🌐 **[Acceder a Chain Global Invest](https://chainglobalinvest.com)**
+🌐 **(https://chainglobalinvest.com)**
 
 # CHAIN GLOBAL INVEST
 ## GovTech: B2G Decision Intelligence Engine for Public Investment in LATAM
