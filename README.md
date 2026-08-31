@@ -1,10 +1,11 @@
+## 🚀 Demo Interactiva
+
+Puedes probar el MVP y evaluar la herramienta directamente desde nuestro dominio oficial:
+
+🌐 **[Acceder a Chain Global Invest](https://chainglobalinvest.com)**
+
 # CHAIN GLOBAL INVEST
 ## GovTech: B2G Decision Intelligence Engine for Public Investment in LATAM
- 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chain-global-invest.streamlit.app)
- 
-### 📌 Live Demo
-Acceda a la plataforma interactiva en vivo: [https://chain-global-invest.streamlit.app](https://chain-global-invest.streamlit.app)
 
 ---
  
